@@ -506,7 +506,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.3,
         "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Voluma.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -661,7 +661,7 @@
         "uuid": "073a85da-7475-4512-9626-448be34315b2"
       }
     ],
-    "used_designators": "U1-3,R1-5,J1,D1,#PWR1-28,SW1-5,C1-9,RV1-4",
+    "used_designators": "U1-6,#FLG1-4,R1-10,J1-4,D1-2,#PWR1-66,SW1-10,C1-24,RV1-8",
     "variants": []
   },
   "sheets": [

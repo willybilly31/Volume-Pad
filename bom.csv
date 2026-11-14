@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,LED_Cree-PLCC4_3.2x2.8mm_CCW,1,CLV1A-FKB,
+R3,0603,1,680,
+"R4, R5",0603,2,330,
+"RV1, RV2, RV3",Potentiometer_Bourns_PTA4543_Single_Slide,3,R_Potentiometer,
+"SW2, SW3, SW4",SW_Cherry_MX_1.00u_PCB,3,SW_Push,
